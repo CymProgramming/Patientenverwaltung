@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f80757-c4d4-48df-a04f-d90dd5a423a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - MYDb.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - MYDb.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - MYDb.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - MYDb.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Patients: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projekt_Patientendaten" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/insurance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/doctor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/850138E9-F6FD-4E85-92BC-6047D6F94AF1/a7/5cd85c63/SQLite3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/Patient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/treatment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/Databasemanager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/850138E9-F6FD-4E85-92BC-6047D6F94AF1/47/6400af4c/SQLiteDataReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/850138E9-F6FD-4E85-92BC-6047D6F94AF1/83/90f3807e/SQLiteCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/Model/TestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/FrmAddress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/FrmAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/FrmTreatment.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Projekt_Patientendaten/View/FrmTreatment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4854FA53-27F4-4FEE-8E48-9C156974045C/07/561d6f84/DateTimeParse.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/doctor.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/Patient.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/AddPatient.Designer.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/AddPatient.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/insurance.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/FrmAddress.Designer.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/FrmTreatment.Designer.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/TestData.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/treatment.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/address.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/FrmTreatment.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/FrmAddress.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.cs" />
+        <option value="$PROJECT_DIR$/Projekt_Patientendaten/Model/Databasemanager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XheMsCBi9QuzaBFihWsJPFKkpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Projekt_Patientendaten" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Projekt_Patientendaten/Projekt_Patientendaten.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:SQLite - MYDb.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:SQLite - MYDb.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3d441f2e" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f80757-c4d4-48df-a04f-d90dd5a423a8" name="Default Changelist" comment="" />
+      <created>1581502710541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581502710541</updated>
+      <workItem from="1581502720275" duration="374000" />
+      <workItem from="1581580791888" duration="6971000" />
+      <workItem from="1581590044257" duration="11433000" />
+      <workItem from="1581930394509" duration="2887000" />
+      <workItem from="1582120688724" duration="8040000" />
+      <workItem from="1582196162700" duration="5742000" />
+      <workItem from="1582204793120" duration="1952000" />
+      <workItem from="1582532531897" duration="1764000" />
+      <workItem from="1582558838092" duration="1080000" />
+      <workItem from="1582616571139" duration="3347000" />
+      <workItem from="1582641218911" duration="110000" />
+      <workItem from="1583135981993" duration="266000" />
+      <workItem from="1583136569504" duration="7702000" />
+      <workItem from="1583150590752" duration="394000" />
+      <workItem from="1583151851491" duration="2143000" />
+      <workItem from="1583156294583" duration="8619000" />
+      <workItem from="1583218404899" duration="5114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#SQL_Dialects" timestamp="1582128118876">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1582128118876" />
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581580973468">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581580973468" />
+    <state x="718" y="396" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1582127846484">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="396" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1050@0.0.1920.1050" timestamp="1582127846484" />
+    <state x="824" y="471" key="Assembly removing confirmation dialog" timestamp="1582205247303">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="824" y="471" key="Assembly removing confirmation dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582205247303" />
+    <state width="512" height="438" key="DebuggerActiveHint" timestamp="1583222801997">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="512" height="438" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1583222801997" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251511" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251511" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251511" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251511" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.1.center" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.1.left" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.2.bottom" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.2.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.2.center" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.2.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.2.left" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.2.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.2.right" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.2.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.3.bottom" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.3.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.3.center" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.3.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.3.left" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.3.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.3.right" timestamp="1583231588913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.3.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588913" />
+    <state width="1877" height="241" key="GridCell.Tab.4.bottom" timestamp="1583231588931">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.4.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588931" />
+    <state width="1877" height="241" key="GridCell.Tab.4.center" timestamp="1583231588931">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.4.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588931" />
+    <state width="1877" height="241" key="GridCell.Tab.4.left" timestamp="1583231588931">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.4.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588931" />
+    <state width="1877" height="241" key="GridCell.Tab.4.right" timestamp="1583231588931">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="241" key="GridCell.Tab.4.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1583164251230" />
+    <state width="1877" height="241" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583231588931" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1581581028862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1581581028862" />
+    <state x="670" y="206" key="RiderGenerateDialog" timestamp="1583220728911">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="670" y="206" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583220728911" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1582205100549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582205100549" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1582122037399">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1582122037399" />
+    <state x="540" y="179" key="com.intellij.database.dbimport.ImportDialog" timestamp="1582124004285">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="179" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582124004285" />
+    <state x="740" y="329" key="save.file.as.template.dialog" timestamp="1581594858502">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="329" key="save.file.as.template.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581594858502" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1582123296614">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1582123296614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Projekt_Patientendaten/Model/Databasemanager.cs</url>
+          <line>862</line>
+          <properties documentPath="$PROJECT_DIR$/Projekt_Patientendaten/Model/Databasemanager.cs" initialLine="763">
+            <startOffsets>
+              <option value="38418" />
+            </startOffsets>
+            <endOffsets>
+              <option value="38449" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/Projekt_Patientendaten/View/Form1.cs" initialLine="55">
+            <startOffsets>
+              <option value="2067" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2099" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

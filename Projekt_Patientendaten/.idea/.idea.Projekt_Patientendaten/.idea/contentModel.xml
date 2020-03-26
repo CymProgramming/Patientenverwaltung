@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Projekt_Patientendaten.2056792772.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\Desktop\Schulprojekt Patientendaten\Projekt_Patientendaten" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive">
+        <e p="SQLitePCLRaw.lib.e_sqlite3.2.0.2\runtimes" t="Include">
+          <e p="win-arm" t="Include">
+            <e p="native" t="Include">
+              <e p="e_sqlite3.dll" t="Include" />
+            </e>
+          </e>
+          <e p="win-x64" t="Include">
+            <e p="native" t="Include">
+              <e p="e_sqlite3.dll" t="Include" />
+            </e>
+          </e>
+          <e p="win-x86" t="Include">
+            <e p="native" t="Include">
+              <e p="e_sqlite3.dll" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Projekt_Patientendaten" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="Address.cs" t="Include" />
+          <e p="Databasemanager.cs" t="Include" />
+          <e p="Doctor.cs" t="Include" />
+          <e p="insurance.cs" t="Include" />
+          <e p="Patient.cs" t="Include" />
+          <e p="TestData.cs" t="Include" />
+          <e p="Treatment.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Presenter" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Projekt_Patientendaten.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="View" t="Include">
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Form1.resx" t="Include" />
+          <e p="FrmAddress.cs" t="Include" />
+          <e p="FrmAddress.Designer.cs" t="Include" />
+          <e p="FrmAddress.resx" t="Include" />
+          <e p="FrmTreatment.cs" t="Include" />
+          <e p="FrmTreatment.Designer.cs" t="Include" />
+          <e p="FrmTreatment.resx" t="Include" />
+        </e>
+      </e>
+      <e p="Projekt_Patientendaten.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
